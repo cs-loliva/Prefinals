@@ -1,4 +1,4 @@
-Generative AI: FAQs & Ethics
+Generative AI: FAQs & Ethics of use
 
 A simple, accessible guide to understanding Generative Artificial Intelligence
 
